@@ -6,7 +6,7 @@
 <h3 align="center">A passionate app developer and coder from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat-agarwal" alt="mustafiz04" /> </p>
 
-- 🔭 I’m currently working on my [`android app`](https://dailyb.ml/).
+- 🔭 I’m currently working on my [`android project`](https://dailyb.ml/).
 - 👯 I’m looking to collaborate to build communities.
 - 🤔 I’m looking for help with in form of contributions to my [`app`](https://dailyb.ml/).
 - 💬 Ask me about **Android Development and competitive coding.**
