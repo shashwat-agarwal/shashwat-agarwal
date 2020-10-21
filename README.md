@@ -6,9 +6,9 @@
 <h3 align="center">A passionate app developer and coder from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat-agarwal" alt="mustafiz04" /> </p>
 
-- 🔭 I’m currently working on my [`android project`](https://dailyb.ml/).
+- 🔭 I’m currently working on my [`android project`](http://dailyb.ml/).
 - 👯 I’m looking to collaborate to build communities.
-- 🤔 I’m looking for help with in form of contributions to my [`app`](https://dailyb.ml/).
+- 🤔 I’m looking for help with in form of contributions to my [`app`](http://dailyb.ml/).
 - 💬 Ask me about **Android Development and competitive coding.**
 - ⚡ Fun fact **I love to travel new places.**
 
@@ -33,11 +33,12 @@
 <a href="https://www.linkedin.com/in/its-shashwat/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  <a href="https://instagram.com/its_shashwat__" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <a href="https://www.facebook.com/shashwat015/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/its_shashwat__" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
 </a>
 </div> 
 
